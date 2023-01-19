@@ -1,7 +1,8 @@
+![logo](https://github.com/IT20660352-dasu/IT20660352-dasu/blob/main/1656612499010.jpg)
 <h1 align="center">Hi 👋, I'm PLPGDS WIJESOORIYA</h1>
 <h3 align="center">A passionate Software Engineer From Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/IT20660352-dasu/IT20660352-dasu/blob/main/Couple%20Laptop%20System%20Coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20660352-dasu&label=Profile%20views&color=0e75b6&style=flat" alt="it20660352-dasu" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://pjcq2vqczroewebys9lpda.on.drv.tw/www.dasunikawijesooriya.com/](https://pjcq2vqczroewebys9lpda.on.drv.tw/www.dasunikawijesooriya.com/)
