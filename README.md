@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/IT20660352-dasu/IT20660352-dasu/blob/main/Couple%20Laptop%20System%20Coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20660352-dasu&label=Profile%20views&color=0e75b6&style=flat" alt="it20660352-dasu" /> </p>
 
-- 👨‍💻 All of my projects are available at [dasu](https://pjcq2vqczroewebys9lpda.on.drv.tw/www.dasunikawijesooriya.com/)
+- 👨‍💻 All of my projects are available at [www.dasunikawijesooriya.com](https://pjcq2vqczroewebys9lpda.on.drv.tw/www.dasunikawijesooriya.com/)
 
 - 📫 How to reach me **daunikawijesooriya@gmail.com**
 
